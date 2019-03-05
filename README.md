@@ -10,7 +10,7 @@ This application for Windows logs you in into Strava in your default browser, re
 - export your client secret to STRAVA_CLIENT_SECRET
 
 ## Usage
-stravagpxexport -out <outputfolder>
+```stravagpxexport -out <outputfolder>```
 
 ## Remarks
 The app stores your token in a token.db so that you don't have to login again, so be sure to keep that in a safe place.
